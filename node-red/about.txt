@@ -1,0 +1,18 @@
+I've never made a pallette, Im just looking at some of the palletes in my ~/.node-red directory. 
+
+https://nodered.org/docs/user-guide/editor/palette/
+https://nodered.org/docs/user-guide/runtime/adding-nodes
+https://nodered.org/docs/creating-nodes/
+
+hm. I think prograing the PLCs using node-red would be dope,
+but theres a learning curve here too. What I might do is write the API in C, 
+Then  try to find a tool to make the library into nodes. 
+
+I mean what is this anyway?
+
+    package.json
+    lower-case.js
+    lower-case.html
+
+ima create 3 files for 1 function? Bro, theres like 125 functions I could write... 
+which is exactly why I havent wrote the API yet. 
